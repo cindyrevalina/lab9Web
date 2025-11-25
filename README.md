@@ -49,7 +49,8 @@ Action buttons (edit, delete, view details)
 Responsive table design
 
 ## Tambah Barang
-https://gambar/tambah%2520barang.png
+<img width="1259" height="723" alt="image" src="https://github.com/user-attachments/assets/c599929a-e608-4208-88fd-985dbe585f5e" />
+
 
 Penjelasan:
 
