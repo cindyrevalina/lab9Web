@@ -18,7 +18,8 @@ Sistem ini merupakan aplikasi web untuk manajemen data barang yang mencakup fitu
  ### Dokumentasi Antarmuka
 
 ## Halaman Login
-https://gambar/login.png
+<img width="1254" height="672" alt="image" src="https://github.com/user-attachments/assets/9174b54b-c6c3-4f8e-be54-b195559cd2b5" />
+
 
 Penjelasan:
 Form autentikasi pengguna dengan field username dan password
