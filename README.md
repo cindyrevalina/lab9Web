@@ -27,7 +27,8 @@ Design sederhana dengan focus pada usability
 Security features: session protection dan input sanitization
 
 ## Dashboard Utama
-https://gambar/dashboard.png
+<img width="1262" height="728" alt="image" src="https://github.com/user-attachments/assets/994746f1-d06f-4235-8e1d-b612088b2b86" />
+
 
 Penjelasan:
 Overview sistem dengan statistik dan ringkasan data
