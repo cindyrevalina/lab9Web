@@ -38,7 +38,8 @@ Cards layout menampilkan total barang, stok, dan metrics penting
 Quick actions buttons untuk operasi frequently used
 
 ## Data Barang
-https://gambar/data%2520barang.png
+<img width="1260" height="726" alt="image" src="https://github.com/user-attachments/assets/ad5fc902-90e5-4a1d-ab8d-83d61e11719b" />
+
 
 Penjelasan:
 Tabel data barang dengan kolom: kode, nama, kategori, stok, harga
